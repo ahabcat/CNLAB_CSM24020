@@ -9,7 +9,7 @@ Programme: MCA (3rd Semester)
 
 Subject: Computer Networks Lab (CS520)
 
-**CN Lab – Assignment 1**
+                                      **CN Lab – Assignment 1**
 
 **Objective:**
 To gain first hands on experience of basic Socket Programming.
