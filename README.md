@@ -9,7 +9,7 @@ Programme: MCA (3rd Semester)
 
 Subject: Computer Networks Lab (CS520)
 
-                                      **CN Lab – Assignment 1**
+## CN Lab – Assignment 1
 
 **Objective:**
 To gain first hands on experience of basic Socket Programming.
@@ -20,4 +20,4 @@ says “Hi” and in response server says “Hello”.
 
 **Output:**
 
-![Assignment1 output] (Assignment%201/assignment1%20output.png)
+![Assignment1 output](Assignment%201/assignment1%20output.png)
