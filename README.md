@@ -140,7 +140,7 @@ group chatbox)
 
 ![Assignment8 output](Assignment%208/assignment8%20output%201.png)
 
-## Assignment 8
+## Assignment 9
 
 **Objective:**
 File upload and download using TCP.
@@ -152,6 +152,27 @@ between two different hosts. Also calculate the transfer time in both the cases.
 **Output:**
 
 ![Assignment9 output](Assignment%209/assignment9%20output.png)
+
+## Assignment 10
+
+**Objective:**
+Using RAW sockets to generate packets.
+
+**Exercise:**
+Write two C programs using raw socket to send i. TCP packet where TCP payload
+will contain your roll number. ii. ICMP time stamp messages towards a target IP.
+
+**Output:**
+
+![Assignment10 output](Assignment%2010/assignment10%20op1.png)
+
+![Assignment10 output](Assignment%2010/assignment10%20op2.png)
+
+![Assignment10 output](Assignment%2010/assignment10%20op3.png)
+
+![Assignment10 output](Assignment%2010/assignment10%20op4.png)
+
+![Assignment10 output](Assignment%2010/assignment10%20op5.png)
 
 
 
