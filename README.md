@@ -14,5 +14,6 @@ To gain first hands on experience of basic Socket Programming.
 Write a program to run TCP client and server socket programs where client first
 says “Hi” and in response server says “Hello”.
 
-**Output**
+**Output:**
+
 ![Assignment1 output](/Assignment%201/assignment1%20output.png)
