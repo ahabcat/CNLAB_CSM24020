@@ -1,8 +1,12 @@
 # CNLAB_CSM24020
 Student details:
+
 Name: Saurav Borah
+
 Roll no: CSM24020
+
 Programme: MCA (3rd Semester)
+
 Subject: Computer Networks Lab (CS520)
 
 **CN Lab – Assignment 1**
