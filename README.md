@@ -140,7 +140,6 @@ group chatbox)
 
 ![Assignment8 output](Assignment%208/assignment8%20output%201.png)
 
-![Assignment8 output](Assignment%208/assignment8%20output%202.png)
 
 
 
