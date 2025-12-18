@@ -211,9 +211,33 @@ Do the same attack as given in assignment no. 11 with ICMP packets using RAW soc
 
 ![Assignment12 output](Assignment%2012/assignment12%20op4.png)
 
+## Assignment 13
 
+**Objective:**
+To learn packet capturing and analysis.
 
+**Exercise:**
+Create a binary tree topology with 7 switches in mininet. Capture packets at the root
+switch. Write a C program to extract the headers and draw a time diagram to show
+the protocols displayed in the captured file (save the .pcap/.pcapng file of
+wireshark/tshark) during a PING operation. List the L2, L3, L4 protocols that can be
+extracted from the .pcap/.pcapng file.
 
+**Output:**
 
+![Assignment13 output](Assignment%2013/assgn13%20op1.png)
 
+![Assignment13 output](Assignment%2013/assgn13%20op2.png)
+
+![Assignment13 output](Assignment%2013/assgn13%20op3.png)
+
+![Assignment13 output](Assignment%2013/assgn13%20op4.png)
+
+![Assignment13 output](Assignment%2013/assgn13%20op5.png)
+
+![Assignment13 output](Assignment%2013/assgn13%20op6.png)
+
+![Assignment13 output](Assignment%2013/assgn13%20op7.png)
+
+![Assignment13 output](Assignment%2013/assgn13%20op8.png)
 
