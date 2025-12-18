@@ -69,7 +69,6 @@ extracted from the .pcap file.
 
 **Output:**
 
-
 ![Assignment4 output](Assignment%204/assignment4%20header%20fields%20from%20pcap%20wireshark.png)
 
 ![Assignment4 output](Assignment%204/assignment4%20ping.png)
@@ -78,7 +77,23 @@ extracted from the .pcap file.
 
 ## Assignment 5
 
+**Objective:**
+To gain knowledge of more packet capturing tools.
 
+**Exercise:**
+Learn and use maximum number of packet generation tools
+
+**Output:**
+
+![Assignment5 output](Assignment%205/assignment5_op1.png)
+
+![Assignment5 output](Assignment%205/assignment5_op2.png)
+
+![Assignment5 output](Assignment%205/assignment5_op3.png)
+
+![Assignment5 output](Assignment%205/assignment5_op4.png)
+
+![Assignment5 output](Assignment%205/assignment5_op5.png)
 
 
 
