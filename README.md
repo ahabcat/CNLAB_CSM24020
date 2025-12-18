@@ -1,2 +1,15 @@
 # CNLAB_CSM24020
-Computer Networks Lab assignments, part of the course.
+Student details:
+Name: Saurav Borah
+Roll no: CSM24020
+Programme: MCA (3rd Semester)
+Subject: Computer Networks Lab (CS520)
+
+CN Lab – Assignment 1
+Objective:
+To gain first hands on experience of basic Socket Programming.
+Exercise:
+Write a program to run TCP client and server socket programs where client first
+says “Hi” and in response server says “Hello”.
+
+[Assignment1 output] Assignment 1/assignment1 output.png
