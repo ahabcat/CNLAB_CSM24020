@@ -185,10 +185,35 @@ towards an IP address. Take four mininet hosts as agent devices.
 
 **Output:**
 
-![Assignment111 output](Assignment%2011/assignment11%20op1.png)
+![Assignment11 output](Assignment%2011/assignment11%20op1.png)
 
-![Assignment111 output](Assignment%2011/assignment11%20op2.png)
+![Assignment11 output](Assignment%2011/assignment11%20op2.png)
 
-![Assignment111 output](Assignment%2011/assignment11%20op3.png)
+![Assignment11 output](Assignment%2011/assignment11%20op3.png)
 
-![Assignment111 output](Assignment%2011/assignment11%20op4.png)
+![Assignment11 output](Assignment%2011/assignment11%20op4.png)
+
+## Assignment 12
+
+**Objective:**
+Using RAW sockets to generate ICMP flooding attack.
+
+**Exercise:**
+Do the same attack as given in assignment no. 11 with ICMP packets using RAW socket.
+
+**Output:**
+
+![Assignment12 output](Assignment%2012/assignment12%20op1.png)
+
+![Assignment12 output](Assignment%2012/assignment12%20op2.png)
+
+![Assignment12 output](Assignment%2012/assignment12%20op3.png)
+
+![Assignment12 output](Assignment%2012/assignment12%20op4.png)
+
+
+
+
+
+
+
