@@ -243,3 +243,15 @@ extracted from the .pcap/.pcapng file.
 
 ![Assignment13 output](Assignment%2013/assgn13%20various%20protocols%20from%20wireshark.png)
 
+## Assignment 14
+
+**Objective:**
+Creating customized topologies in mininet.
+
+**Exercise:**
+Create a custom leaf-spine topology in mininet using python which can be scaled
+with increasing switch radix.
+
+**Output:**
+
+![Assignment14 output](Assignment%2014/assignment14%20op.png)
