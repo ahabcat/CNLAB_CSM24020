@@ -55,3 +55,28 @@ Redo assignment 2 using UDP socket.
 **Output:**
 
 ![Assignment3 output](Assignment%203/assignment3%20output.png)
+
+## CN Lab – Assignment 4
+
+**Objective:**
+To gain knowledge of packet capturing tools and understand header structures.
+
+**Exercise:**
+Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to
+show the steps in the protocols recorded in the captured file (saved in the .pcap file
+of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be
+extracted from the .pcap file.
+
+**Output:**
+
+
+![Assignment4 output](Assignment%204/assignment4%20header%20fields%20from%20pcap%20wireshark.png)
+
+![Assignment4 output](Assignment%204/assignment4%20ping.png)
+
+![Assignment4 output](Assignment%204/assignment4%20time%20diagram.png)
+
+
+
+
+
