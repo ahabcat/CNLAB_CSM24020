@@ -43,3 +43,15 @@ displayed to the customer every time.
 **Output:**
 
 ![Assignment2 output](Assignment%202/assignment2%20output.png)
+
+## CN Lab – Assignment 3
+
+**Objective:**
+To gain experience of UDP Socket Programming for simple applications.
+
+**Exercise:**
+Redo assignment 2 using UDP socket.
+
+**Output:**
+
+![Assignment3 output](Assignment%203/assignment3%20output.png)
