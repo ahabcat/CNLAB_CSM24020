@@ -42,4 +42,4 @@ displayed to the customer every time.
 
 **Output:**
 
-![Assignment2 output](Assignment%201/assignment2%20output.png)
+![Assignment2 output](Assignment%202/assignment2%20output.png)
