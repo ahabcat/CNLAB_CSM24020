@@ -107,5 +107,20 @@ Develop a simple C based network simulator to analyze TCP traffic.
 
 ![Assignment6 output](Assignment%206/assignment6%20output.png)
 
+## Assignment 7
+
+**Objective:**
+Client server communication with UDP packets
+
+**Exercise:**
+Write UDP client server socket program where client sends one/two number(s)
+(integer or floating point) to server and a scientific calculator operation (like
+sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of
+operation as sent by the client. Server will maintain a scientific calculator. Detect in
+the mininet hosts with wireshark if there is any packet loss? Show it to the TA.
+
+**Output:**
+
+![Assignment7 output](Assignment%207/assignment7%20output.png)
 
 
