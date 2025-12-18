@@ -95,5 +95,17 @@ Learn and use maximum number of packet generation tools
 
 ![Assignment5 output](Assignment%205/assignment5_op5.png)
 
+## Assignment 6
+
+**Objective:**
+To gain knowledge of more TCP/IP C libraries.
+
+**Exercise:**
+Develop a simple C based network simulator to analyze TCP traffic.
+
+**Output:**
+
+![Assignment6 output](Assignment%206/assignment6%20output.png)
+
 
 
