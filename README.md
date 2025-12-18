@@ -12,4 +12,4 @@ Exercise:
 Write a program to run TCP client and server socket programs where client first
 says “Hi” and in response server says “Hello”.
 
-![Assignment1 output](Assignment%1/assignment1%output.png)
+![Assignment1 output](CNLAB_CSM24020/Assignment%1/assignment1%output.png)
