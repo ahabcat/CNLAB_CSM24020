@@ -20,4 +20,4 @@ says “Hi” and in response server says “Hello”.
 
 **Output:**
 
-![Assignment1 output](/Assignment%201/assignment1%20output.png)
+![Assignment1 output](Assignment%201/assignment1%20output.png)
