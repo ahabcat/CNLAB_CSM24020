@@ -154,7 +154,6 @@ between two different hosts. Also calculate the transfer time in both the cases.
 
 ![Assignment9 output](Assignment%209/assignment9%20output.png)
 
-![Assignment9 output](Assignment%209/assignment9%20output%202.png)
 
 ## Assignment 10
 
