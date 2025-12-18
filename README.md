@@ -9,7 +9,7 @@ Programme: MCA (3rd Semester)
 
 Subject: Computer Networks Lab (CS520)
 
-## CN Lab – Assignment 1
+## Assignment 1
 
 **Objective:**
 To gain first hands on experience of basic Socket Programming.
@@ -22,7 +22,7 @@ says “Hi” and in response server says “Hello”.
 
 ![Assignment1 output](Assignment%201/assignment1%20output.png)
 
-## CN Lab – Assignment 2
+## Assignment 2
 
 **Objective:**
 To gain experience of TCP Socket Programming for simple applications.
@@ -44,7 +44,7 @@ displayed to the customer every time.
 
 ![Assignment2 output](Assignment%202/assignment2%20output.png)
 
-## CN Lab – Assignment 3
+## Assignment 3
 
 **Objective:**
 To gain experience of UDP Socket Programming for simple applications.
@@ -56,7 +56,7 @@ Redo assignment 2 using UDP socket.
 
 ![Assignment3 output](Assignment%203/assignment3%20output.png)
 
-## CN Lab – Assignment 4
+## Assignment 4
 
 **Objective:**
 To gain knowledge of packet capturing tools and understand header structures.
@@ -75,6 +75,8 @@ extracted from the .pcap file.
 ![Assignment4 output](Assignment%204/assignment4%20ping.png)
 
 ![Assignment4 output](Assignment%204/assignment4%20time%20diagram.png)
+
+## Assignment 5
 
 
 
