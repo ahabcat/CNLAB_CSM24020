@@ -174,8 +174,21 @@ will contain your roll number. ii. ICMP time stamp messages towards a target IP.
 
 ![Assignment10 output](Assignment%2010/assignment10%20op5.png)
 
+## Assignment 11
 
+**Objective:**
+Using RAW sockets to generate TCP flooding attack.
 
+**Exercise:**
+Write a RAW socket program to generate TCP SYN flood based DDoS attack
+towards an IP address. Take four mininet hosts as agent devices.
 
+**Output:**
 
+![Assignment111 output](Assignment%2011/assignment11%20op1.png)
 
+![Assignment111 output](Assignment%2011/assignment11%20op2.png)
+
+![Assignment111 output](Assignment%2011/assignment11%20op3.png)
+
+![Assignment111 output](Assignment%2011/assignment11%20op4.png)
